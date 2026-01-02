@@ -43,7 +43,7 @@ body{
     max-width: 350px;
     padding: 24px;
     border-radius: 20px;
-    box-shadow: 20px 20px 25px rgb(10, 10, 2, 2);
+    box-shadow: 20px 20px black;
     border: 1px solid black;
 }
  
@@ -115,4 +115,5 @@ figcaption{
 }
 .attribution a { 
     color: hsl(228, 45%, 44%);
+
 }
