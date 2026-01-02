@@ -22,8 +22,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/lucifermrng9-ship-it/blog-preview-card-main.git
-- Live Site URL: 
-blog-preview-card/
+- Live Site URL: https://lucifermrng9-ship-it.github.io/blog-preview-card-main/
 
 ## My process
 
@@ -44,6 +43,7 @@ Alignment and spacing
 ## Author
 
 - Frontend Mentor - [@lucifermrng9-ship-it](https://www.frontendmentor.io/profile/lucifermrng9-ship-it)
+
 
 
 
